@@ -1,4 +1,4 @@
-About Mitigate
+About Entropy
 ========
 
 $project will solve your problem of where to start with documentation,
@@ -13,7 +13,7 @@ Look how easy it is to use:
 Create Account
 --------
 
-- When user access the MITIGATE site https://mitigate.euprojects.net/ the following screen is shown:
+- When user access the Entropy site xxxxx the following screen is shown:
 .. image:: assets/Log.png
 
 - Create developer account
@@ -21,7 +21,7 @@ Create Account
 Login
 ------------
 
-- When user access the MITIGATE site https://mitigate.euprojects.net/ the following screen is shown:
+- When user access the Entropy site xxx the following screen is shown:
 
 .. image:: assets/Log.png
    
@@ -36,6 +36,6 @@ Support
 -------
 
 If you are having issues, please let us know.
-We have a mailing list located at: g.ledakis@gmail.com
+
 
 

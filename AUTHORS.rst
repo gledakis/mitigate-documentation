@@ -1,6 +1,5 @@
 Authors
 -------
 
-* Giannis Ledakis 
-* SILO
-
+* Paris Liapis 
+* Ubitech
